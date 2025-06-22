@@ -26,7 +26,7 @@
 
 
     <!-- Contact Start -->
-    <div class="container-xxl py-5">
+    <div class="container-xxl py-5 bg-light">
         <div class="container">
             <div class="row g-5 mb-5 wow fadeInUp" data-wow-delay="0.1s">
                 <div class="col-lg-6">
@@ -40,13 +40,13 @@
             <div class="row g-5">
                 <div class="col-lg-5 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <p class="mb-2">Our office:</p>
-                    <h4>Irbid, Jordan</h4>
+                    <h5>Irbid, Jordan</h5>
                     <hr class="w-100">
                     <p class="mb-2">Call us:</p>
-                    <h4>0799245499</h4>
+                    <h5>0799245499</h5>
                     <hr class="w-100">
                     <p class="mb-2">Mail us:</p>
-                    <h4>qenineh@gmail.com</h4>
+                    <h5>qenineh@gmail.com</h5>
                     <hr class="w-100">
                     <p class="mb-2">Follow us:</p>
                     <div class="d-flex pt-2">

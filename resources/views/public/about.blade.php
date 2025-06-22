@@ -25,7 +25,7 @@
 
 
     <!-- About Start -->
-    <div class="container-xxl py-5">
+    <div class="container-xxl py-5 bg-light">
         <div class="container">
             <div class="row g-5 align-items-center">
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
@@ -60,7 +60,7 @@
 
 
     <!-- Vision Start -->
-    <div class="container-xxl py-5 bg-light">
+    <div class="container-xxl py-5 ">
         <div class="container">
             <div class="row g-5 align-items-center">
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
@@ -100,7 +100,7 @@
 
 
 <!-- Mission Start -->
-<div class="container-xxl py-5">
+<div class="container-xxl py-5 bg-light">
     <div class="container">
         <div class="row g-5 align-items-center">
             <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
@@ -139,7 +139,7 @@
 
 
    <!-- Founder Start -->
-<div class="container-xxl py-5 bg-light">
+<div class="container-xxl py-5 ">
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-lg-10">
