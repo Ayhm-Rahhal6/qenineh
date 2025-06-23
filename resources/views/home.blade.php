@@ -151,7 +151,54 @@
     <!-- How It Works End -->
 
 
-    
+    <!-- Challenge, Vision & Mission Start -->
+    <div class="container-xxl py-5">
+        <div class="container">
+            <div class="text-center mx-auto wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
+                <h1 class="display-6">Our Challenge, Vision & Mission</h1>
+                <p class="text-primary fs-5 mb-5">Solving Today's Problems, Shaping Tomorrow's World</p>
+            </div>
+            <div class="row g-4 justify-content-center align-items-stretch">
+                <!-- Problem -->
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="bg-light rounded p-4 h-100 d-flex flex-column align-items-center text-center shadow-sm">
+                        <i class="fas fa-exclamation-triangle fa-2x text-info mb-3"></i>
+                        <h5 class="mb-2">The Problem</h5>
+                        <ul class="list-unstyled mb-3 small">
+                            <li><i class="fa fa-times-circle text-info me-2"></i>Use of natural resources</li>
+                            <li><i class="fa fa-times-circle text-info me-2"></i>Environmental pollution</li>
+                            <li><i class="fa fa-times-circle text-info me-2"></i>Water pollution</li>
+                        </ul>
+                        <p class="mb-0 small">Plastic waste is damaging our planet. Learn more on our About page.</p>
+                    </div>
+                </div>
+                <!-- Vision -->
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+                    <div class="bg-light rounded p-4 h-100 d-flex flex-column align-items-center text-center shadow-sm">
+                        <i class="fas fa-eye fa-2x text-info mb-3"></i>
+                        <h5 class="mb-2">Our Vision</h5>
+                        <p class="mb-0 small">Make Jordan a leader in sustainable 3D printing and reduce global plastic waste. Read more in our About section.</p>
+                    </div>
+                </div>
+                <!-- Mission -->
+                <div class="col-lg-4 col-md-12 wow fadeInUp" data-wow-delay="0.5s">
+                    <div class="bg-light rounded p-4 h-100 d-flex flex-column align-items-center text-center shadow-sm">
+                        <i class="fas fa-bullseye fa-2x text-info mb-3"></i>
+                        <h5 class="mb-2">Our Mission</h5>
+                        <p class="mb-0 small">Recycle plastic bottles into 3D filaments and support innovation through a circular economy. More details on the About page.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row mt-4">
+                <div class="col-12 text-center">
+                    <a class="btn btn-primary py-3 px-4" href="/about">Read More</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Challenge, Vision & Mission End -->
+
+
 
 
 
